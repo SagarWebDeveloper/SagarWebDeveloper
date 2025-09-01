@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sagar  
+# 👋 Hi, I'm Sagar Rathor
 
 💻 Full-Stack Software Developer | MERN Stack | Problem Solver  
 
