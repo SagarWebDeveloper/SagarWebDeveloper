@@ -1,4 +1,3 @@
-
 <h1 align="center"> Hi, I'm Sagar MERN Stack Developer</h1>
 
 <p align="center">
@@ -10,7 +9,7 @@
 
 ---
 
-## 👋 About Me
+##  About Me
 I have learnt **Full Stack Development (MERN)** and actively looking for an internship to gain real-world experience.  
 My focus is on writing clean code, understanding core concepts, and building practical applications.
 
