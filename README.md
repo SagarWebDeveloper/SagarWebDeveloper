@@ -14,24 +14,19 @@ I have learnt **Full Stack Development (MERN)** and actively looking for an inte
 My focus is on writing clean code, understanding core concepts, and building practical applications.
 
 ---
-
-## 💼 What I Can Do
-### 🖥️ **Frontend**
-- React Components & Hooks  
-- State Management  
-- Forms Handling  
-- Reusable UI Patterns  
-
-### 🔧 **Backend**
-- Express.js Routing  
-- REST APIs  
-- Middleware  
-- Authentication Basics  
-
-### 🗄️ **Database**
-- MongoDB CRUD  
-- Schema Modeling  
-- Basic Data Relationships  
+## Skills & Technologies
+HTML5 (Semantic HTML)  , CSS3 (Flexbox, Grid) , Responsive Design , Bootstrap / Tailwind CSS ,  JavaScript(ES6+) , DOM Manipulation , Fetch API / Axios , React , React Router , Context API , API Integration , 
+Authentication flow (login/signup) , Node.js , Express.js
+Routing , Middleware , MVC Architecture , REST API Design , JWT (Access & Refresh Tokens) , 
+Session vs Token Auth , Database Skills (MongoDB) , 
+Collections & Documents , CRUD Operations , 
+Transactions (basic) , Mongoose , Schema Design , CORS Configuration , Git, GitHub , VS Code , Postman , NPM , 
+Frontend: Netlify / Vercel , 
+Backend: Render / Railway / AWS , 
+MongoDB Atlas , Unit Testing (Jest basics)
+API Testing (Postman) , 
+Debugging , 
+Code Formatting (Prettier, ESLint)
 
 ---
 
