@@ -39,24 +39,6 @@ Code Formatting (Prettier, ESLint)
 
 ---
 
-## 📚 Currently Learning
-- Better project structuring  
-- Clean architecture  
-- API security basics  
-- Full authentication flow (JWT)  
-- Error handling & validations  
-
----
-
-## 🚀 Why I Want an Internship
-I believe that real learning happens by working on live projects.  
-An internship will help me:
-- Apply my skills practically  
-- Learn coding standards  
-- Collaborate with senior developers  
-- Build confidence in full-stack development  
-
----
 
 ## 🧑‍💻 My Work Approach
 - Write clean & maintainable code  
