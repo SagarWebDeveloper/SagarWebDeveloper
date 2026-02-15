@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Sagar MERN Stack Developer</h1>
+<h1 align="center"> Hi, I'm Sagar – MERN Stack Developer</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -9,46 +9,45 @@
 
 ---
 
-##  About Me
-I have learnt **Full Stack Development (MERN)** and actively looking for an internship to gain real-world experience.  
-My focus is on writing clean code, understanding core concepts, and building practical applications.
+## About Me
+I am a **MERN Stack Developer** focused on writing clean code, understanding core concepts, and building practical, real-world applications.  
+I enjoy creating scalable full-stack projects and continuously improving my skills.
 
 ---
+
 ## Skills & Technologies
-HTML5 (Semantic HTML)  , CSS3 (Flexbox, Grid) , Responsive Design , Bootstrap / Tailwind CSS ,  JavaScript(ES6+) , DOM Manipulation , Fetch API / Axios , React , React Router , Context API , API Integration , 
-Authentication flow (login/signup) , Node.js , Express.js
-Routing , Middleware , MVC Architecture , REST API Design , JWT (Access & Refresh Tokens) , 
-Session vs Token Auth , Database Skills (MongoDB) , 
-Collections & Documents , CRUD Operations , 
-Transactions (basic) , Mongoose , Schema Design , CORS Configuration , Git, GitHub , VS Code , Postman , NPM , 
-Frontend: Netlify / Vercel , 
-Backend: Render / Railway / AWS , 
-MongoDB Atlas , Unit Testing (Jest basics)
-API Testing (Postman) , 
-Debugging , 
-Code Formatting (Prettier, ESLint)
+**Frontend:** HTML5 (Semantic HTML), CSS3 (Flexbox, Grid), Responsive Design, Bootstrap / Tailwind CSS, JavaScript (ES6+), DOM Manipulation, Fetch API / Axios, React, React Router, Context API, API Integration, Authentication flow (login/signup)  
+
+**Backend:** Node.js, Express.js, Routing, Middleware, MVC Architecture, REST API Design, JWT (Access & Refresh Tokens), Session vs Token Auth  
+
+**Database:** MongoDB, Collections & Documents, CRUD Operations, Transactions (basic), Mongoose, Schema Design, CORS Configuration  
+
+**Tools & DevOps:** Git, GitHub, VS Code, Postman, NPM, Frontend Deployment (Netlify / Vercel), Backend Deployment (Render / Railway / AWS)  
+
+**Testing & Debugging:** Unit Testing (Jest basics), API Testing (Postman), Debugging, Code Formatting (Prettier, ESLint)
 
 ---
 
-## 🎯 My Internship Goals
-- Work on real-world tasks  
-- Improve problem-solving  
-- Understand team workflow  
-- Apply MERN concepts in production-level code  
-- Gain hands-on experience under guidance  
+## 🧑‍💻 Work Approach
+- Write **clean & maintainable code**  
+- Learn fast and adapt to new technologies  
+- Stay **consistent and disciplined**  
+- Focus on **quality over quantity**  
 
 ---
+## 🔗 Connect with Me
 
-
-## 🧑‍💻 My Work Approach
-- Write clean & maintainable code  
-- Learn fast and adapt quickly  
-- Stay consistent and disciplined  
-- Focus on quality over quantity  
+<p align="center">
+  <a href="https://sagar-portfolio-mern.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sagar-web-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 🙌 Thank You
-Thank you for reviewing my learning journey.  
-I am open to feedback, guidance, and opportunities to prove myself as a dedicated MERN stack Developer.
-
+Thank you for reviewing my profile.  
+I am open to feedback, collaboration, and opportunities to contribute as a dedicated **MERN Stack Developer**.
